@@ -151,6 +151,14 @@ The process involves an active analysis of the application for any weaknesses, t
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discovery analysis can be useful to reveal details such as web applications used for administrative purposes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140127T091923Z" creationid="haruyama" creationdate="20140127T091923Z">
+        <seg>検出解析は, 管理目的で利用されるウェブアプリケーションのような細部を暴露するのにも有用となります.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Everything is free.</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140126T092957Z" creationid="haruyama" creationdate="20140126T092957Z">
@@ -346,6 +354,18 @@ The test is divided into 2 phases:
 * Denial of Service Testing 
 * Web Services Testing 
 * Ajax Testing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[[Testing for Application Discovery (OWASP-IG-005)|4.2.5 Application Discovery  (OWASP-IG-005)]] [rename to "Enumerate applications on webserver"]&lt;br&gt;
+Application discovery is an activity oriented to the identification of the web applications hosted on a web server/application server.&lt;br&gt;
+This analysis is important because often there is not a direct link connecting the main application backend.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140127T091819Z" creationid="haruyama" creationdate="20140127T091819Z">
+        <seg>[[Testing for Application Discovery (OWASP-IG-005)|4.2.5 Application Discovery  (OWASP-IG-005)]] [rename to "Enumerate applications on webserver"]&lt;br&gt;
+アプリケーション検出は, ウェブサーバ/アプリケーションサーバにホストされたウェブアプリケーションの識別のための行動です.&lt;br&gt;
+メインアプリケーションバックエンドと接続する直接のリンクがない場合がしばしばあるので, この解析は重要です.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
