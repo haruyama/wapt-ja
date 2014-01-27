@@ -251,6 +251,14 @@ OWASP ウェブアプリケーションペネトレーションテスト法は, 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The security test should endeavour to test as much of the code base as possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140127T090932Z" creationid="haruyama" creationdate="20140127T090932Z">
+        <seg>セキュリティテストは, コードベースの可能な限り大きな部分に対してテストするよう努める必要があります.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The tester knows nothing or very little information about the application to be tested.</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140126T095517Z" creationid="haruyama" creationdate="20140126T095517Z">
@@ -281,6 +289,22 @@ The test is divided into 2 phases:
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140126T100140Z" creationid="haruyama" creationdate="20140126T073904Z">
         <seg>この章では、OWASPのWebアプリケーションペネトレーションテストの方法とそれぞれの脆弱性をテストする方法について説明します.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This task can be carried out in many different ways.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140127T091209Z" creationid="haruyama" creationdate="20140127T091209Z">
+        <seg>このタスクは, 異なる多くの方法で実行できます.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus mapping all possible paths through the code to facilitate thorough testing is paramount.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140127T091151Z" creationid="haruyama" creationdate="20140127T091151Z">
+        <seg>ですので, 徹底したテストを支援するためにコードへのすべての可能なパスをマッピングすることは, 最重要です.</seg>
       </tuv>
     </tu>
     <tu>
