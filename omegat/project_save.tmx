@@ -183,6 +183,14 @@ https://www.example.com/login/Authentic_Form.html
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition, it can reveal old versions of files or artifacts such as undeleted, obsolete scripts, crafted during the test/development phase or as the result of maintenance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140127T092257Z" creationid="haruyama" creationdate="20140127T092257Z">
+        <seg>加えて, テスト/開発フェイズの間や保守の結果として作られた, 削除されていない/廃止されたスクリプトなどのファイルや成果物の古いバージョンを暴露することがあります.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Indeed, penetration testing is only an appropriate technique for testing the security of web applications under certain circumstances.</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140126T095337Z" creationid="haruyama" creationdate="20140126T095337Z">
