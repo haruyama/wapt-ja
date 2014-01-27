@@ -6,6 +6,16 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>''' 4.2 Information Gathering '''
+----</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140127T090635Z" creationid="haruyama" creationdate="20140127T090635Z">
+        <seg>''' 4.2 情報収集 '''
+----</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>'''Our approach in writing this guide'''</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140126T092739Z" creationid="haruyama" creationdate="20140126T092739Z">
@@ -165,6 +175,14 @@ https://www.example.com/login/Authentic_Form.html
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Information Gathering is the most critical step of an application security test.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140127T090808Z" creationid="haruyama" creationdate="20140127T090756Z">
+        <seg>情報収集はアプリケーションセキュリティテストのもっとも重要なステップです.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Penetration testing will never be an exact science where a complete list of all possible issues that should be tested can be defined.</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140126T095211Z" creationid="haruyama" creationdate="20140126T095211Z">
@@ -193,6 +211,14 @@ We think it is important to use a method to test all known vulnerabilities and d
 * 文書 すべてl
 * テスト すべて
 我々は, すべての既知の脆弱性をテストする方法を利用することとすべてのペネトレーションテストについて文書化することが重要と考えています.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The  first phase in security assessment is focused on collecting as much information as possible about a target application.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140127T090737Z" creationid="haruyama" creationdate="20140127T090737Z">
+        <seg>セキュリティ評価の最初の段階では, ターゲットについての情報を可能な限り多く集めることに焦点を当てます.</seg>
       </tuv>
     </tu>
     <tu>
