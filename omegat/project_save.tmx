@@ -386,6 +386,26 @@ This analysis is important because often there is not a direct link connecting t
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[[Testing for Web Application Fingerprint (OWASP-IG-004)|4.2.4 Testing Web Application Fingerprint  (OWASP-IG-004)]]&lt;br&gt;
+Application fingerprint is the first step of the Information Gathering process; knowing the version and type of a running web server allows testers to determine known vulnerabilities and the appropriate exploits to use during testing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140208T093911Z" creationid="haruyama" creationdate="20140208T093911Z">
+        <seg>[[Testing for Web Application Fingerprint (OWASP-IG-004)|4.2.4 ウェブサーバの指紋のテスト  (OWASP-IG-004)]]&lt;br&gt;
+アプリケーションの指紋の収集は, 情報収集プロセスの最初のステップです. 動作しているウェブサーバのバージョンや種類を知ることで, テスト中に用いる既知の脆弱性や適切なエクスプロイトを決定できます.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[[Testing for Web Server Fingerprint (OWASP-IG-00x)|4.2.x Testing Web Server Fingerprint  (OWASP-IG-00x)]]&lt;br&gt;
+Application fingerprint is the first step of the Information Gathering process; knowing the version and type of a running web server allows testers to determine known vulnerabilities and the appropriate exploits to use during testing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140208T093829Z" creationid="haruyama" creationdate="20140208T093635Z">
+        <seg>[[Testing for Web Server Fingerprint (OWASP-IG-00x)|4.2.x ウェブサーバの指紋のテスト  (OWASP-IG-00x)]]&lt;br&gt;
+アプリケーションの指紋の収集は, 情報収集プロセスの最初のステップです. 動作しているウェブサーバのバージョンや種類を知ることで, テスト中に用いる既知の脆弱性や適切なエクスプロイトを決定できます.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[[Testing: Identify application entry points (OWASP-IG-003)|4.2.3 Identify application entry points  (OWASP-IG-003)]]&lt;br&gt;
 Enumerating the application and its attack surface is a key precursor before any attack should commence.</seg>
       </tuv>
