@@ -16,6 +16,16 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>''' 4.3 Testing for configuration management '''
+----</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140208T100441Z" creationid="haruyama" creationdate="20140208T100441Z">
+        <seg>''' 4.3 構成管理のためのテスト '''
+----</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>'''Our approach in writing this guide'''</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140126T092739Z" creationid="haruyama" creationdate="20140126T092739Z">
