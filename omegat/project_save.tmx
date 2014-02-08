@@ -378,6 +378,16 @@ This analysis is important because often there is not a direct link connecting t
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[[Testing: Review webpage comments and metadata  (OWASP-IG-00x)|4.2.x Review webpage comments and metadata(OWASP-IG-00x)]]
+Review the webpage metadata, HTML, JavaScript comments for sensitive information and disabled links/scripts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140208T090054Z" creationid="haruyama" creationdate="20140208T090054Z">
+        <seg>[[Testing: Review webpage comments and metadata  (OWASP-IG-00x)|4.2.x Review webpage comments and metadata(OWASP-IG-00x)]]
+重要の情報や無効となったリンクやスクリプトがないか, ウェブページのメタデータや HTML/Javascript のコメントをレビューします.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[[Testing: Spiders, Robots, and Crawlers  (OWASP-IG-001)|4.2.1 Spiders, Robots and Crawlers (OWASP-IG-001)]] [rename to "Review webserver metafiles" ]
 This phase of the Information Gathering process consists of browsing and capturing resources related to the application being tested.</seg>
       </tuv>
