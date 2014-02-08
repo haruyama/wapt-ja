@@ -396,6 +396,15 @@ Enumerating the application and its attack surface is a key precursor before any
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[[Testing: Identify application exit/handover points (OWASP-IG-00x)|4.2.x Identify application exit/handover points  (OWASP-IG-00x)]]&lt;br&gt;
+Identify the functional exit points of the application and points where the application hands over to another application that may, or may not, be within scope of testing (e.g. handover to a payment gateway).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140208T092523Z" creationid="haruyama" creationdate="20140208T092523Z">
+        <seg>[[Testing: Identify application exit/handover points (OWASP-IG-00x)|4.2.x アプリケーションの終了/移譲ポイントの識別 (OWASP-IG-00x)]]&lt;br&gt;Identify the functional exit points of the application and points where the application hands over to another application that may, or may not, be within scope of testing (e.g. handover to a payment gateway).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[[Testing: Review webpage comments and metadata  (OWASP-IG-00x)|4.2.x Review webpage comments and metadata(OWASP-IG-00x)]]
 Review the webpage metadata, HTML, JavaScript comments for sensitive information and disabled links/scripts.</seg>
       </tuv>
