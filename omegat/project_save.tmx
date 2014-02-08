@@ -207,6 +207,16 @@ https://www.example.com/login/Authentic_Form.html
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Information such as error codes can inform the tester about technologies and products being used by the application.&lt;br&gt;
+In many cases, error codes can be easily invoked without the need for specialist skills or tools, due to bad exception handling design and coding.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140208T094219Z" creationid="haruyama" creationdate="20140208T094219Z">
+        <seg>このエラーコードのような情報は, アプリケーションで利用されている技術は製品の情報をテスターに与えます.&lt;br&gt;
+多くの場合で, 設計やコーディングでの例外の扱いが悪いために, エラーコードは専門家のスキルやツールなしでも簡単に呼び出すことができます.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Penetration testing will never be an exact science where a complete list of all possible issues that should be tested can be defined.</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140126T095211Z" creationid="haruyama" creationdate="20140126T095211Z">
@@ -382,6 +392,16 @@ This analysis is important because often there is not a direct link connecting t
         <seg>[[Testing for Application Discovery (OWASP-IG-005)|4.2.5 アプリケーションの検出 (OWASP-IG-005)]] [rename to "Enumerate applications on webserver"]&lt;br&gt;
 アプリケーションの検出は, ウェブサーバ/アプリケーションサーバにホストされたウェブアプリケーションの特定のための行動です.&lt;br&gt;
 メインアプリケーションバックエンドと接続する直接のリンクがない場合がしばしばあるので, この解析は重要です.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[[Testing for Error Codes (OWASP-IG-006)|4.2.6 Analysis of Error Codes  (OWASP-IG-006)]]&lt;br&gt;
+During a penetration test, web applications may divulge information that is not intended to be seen by an end user.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140208T094008Z" creationid="haruyama" creationdate="20140208T094008Z">
+        <seg>[[Testing for Error Codes (OWASP-IG-006)|4.2.6 エラーコードの解析  (OWASP-IG-006)]]&lt;br&gt;
+侵入テスト中に, ウェブアプリケーションは, エンドユーザに見られることを意図してない情報を漏らすことがあります.</seg>
       </tuv>
     </tu>
     <tu>
