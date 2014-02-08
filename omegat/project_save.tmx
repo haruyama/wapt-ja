@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.8_2" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.8_3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -374,6 +374,16 @@ This analysis is important because often there is not a direct link connecting t
         <seg>[[Testing for Application Discovery (OWASP-IG-005)|4.2.5 Application Discovery  (OWASP-IG-005)]] [rename to "Enumerate applications on webserver"]&lt;br&gt;
 アプリケーション検出は, ウェブサーバ/アプリケーションサーバにホストされたウェブアプリケーションの識別のための行動です.&lt;br&gt;
 メインアプリケーションバックエンドと接続する直接のリンクがない場合がしばしばあるので, この解析は重要です.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[[Testing: Spiders, Robots, and Crawlers  (OWASP-IG-001)|4.2.1 Spiders, Robots and Crawlers (OWASP-IG-001)]] [rename to "Review webserver metafiles" ]
+This phase of the Information Gathering process consists of browsing and capturing resources related to the application being tested.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140208T085847Z" creationid="haruyama" creationdate="20140208T085847Z">
+        <seg>[[Testing: Spiders, Robots, and Crawlers  (OWASP-IG-001)|4.2.1 Spiders, Robots and Crawlers (OWASP-IG-001)]] [rename to "Review webserver metafiles" ]
+情報収集プロセスのこのフェイズでは, テストするアプリケーションに関する資源をブラウズし保存することから構成されます.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
