@@ -389,9 +389,9 @@ This analysis is important because often there is not a direct link connecting t
         <seg>[[Testing: Identify application entry points (OWASP-IG-003)|4.2.3 Identify application entry points  (OWASP-IG-003)]]&lt;br&gt;
 Enumerating the application and its attack surface is a key precursor before any attack should commence.</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140208T092810Z" creationid="haruyama" creationdate="20140208T092041Z">
+      <tuv lang="JA" changeid="haruyama" changedate="20140208T093543Z" creationid="haruyama" creationdate="20140208T092041Z">
         <seg>[[Testing: Identify application entry points (OWASP-IG-003)|4.2.3 アプリケーションのエントリポイントの特定  (OWASP-IG-003)]]&lt;br&gt;
-攻撃を行なう前に, アプリケーションとその攻撃箇所を列挙するのは重要な準備だ.</seg>
+攻撃を行なう前に, アプリケーションとその攻撃箇所を列挙するのは重要な準備です.</seg>
       </tuv>
     </tu>
     <tu>
@@ -409,9 +409,9 @@ Identify the functional exit points of the application and points where the appl
         <seg>[[Testing: Map paths through the application (OWASP-IG-00x)|4.2.x Map paths through the application (OWASP-IG-00x)]]&lt;br&gt;
 Enumerating the application and its attack surface is a key precursor before any attack should commence.</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140208T093456Z" creationid="haruyama" creationdate="20140208T093456Z">
-        <seg>[[Testing: Map paths through the application (OWASP-IG-00x)|4.2.x アプリケーションのパスのマッピングMap paths through the application (OWASP-IG-00x)]]&lt;br&gt;
-Enumerating the application and its attack surface is a key precursor before any attack should commence.</seg>
+      <tuv lang="JA" changeid="haruyama" changedate="20140208T093613Z" creationid="haruyama" creationdate="20140208T093456Z">
+        <seg>[[Testing: Map paths through the application (OWASP-IG-00x)|4.2.x アプリケーションのパスのマッピング (OWASP-IG-00x)]]&lt;br&gt;
+攻撃を行なう前に, アプリケーションとその攻撃箇所を列挙するのは重要な準備です.</seg>
       </tuv>
     </tu>
     <tu>
