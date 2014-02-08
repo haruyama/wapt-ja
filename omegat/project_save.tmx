@@ -225,6 +225,14 @@ In many cases, error codes can be easily invoked without the need for specialist
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It cannot be as comprehensive as the information possibly gathered by performing a broader infrastructure analysis.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140208T094927Z" creationid="haruyama" creationdate="20140208T094927Z">
+        <seg>より広いインフラの分析を実行することで得られる情報のほうが包括的です.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Penetration testing will never be an exact science where a complete list of all possible issues that should be tested can be defined.</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140126T095211Z" creationid="haruyama" creationdate="20140126T095211Z">
