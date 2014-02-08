@@ -378,6 +378,16 @@ This analysis is important because often there is not a direct link connecting t
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[[Testing: Identify application entry points (OWASP-IG-003)|4.2.3 Identify application entry points  (OWASP-IG-003)]]&lt;br&gt;
+Enumerating the application and its attack surface is a key precursor before any attack should commence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140208T092041Z" creationid="haruyama" creationdate="20140208T092041Z">
+        <seg>[[Testing: Identify application entry points (OWASP-IG-003)|4.2.3 アプリケーションのエントリポイントの識別  (OWASP-IG-003)]]&lt;br&gt;
+攻撃を行なう前に, アプリケーションとその攻撃箇所を列挙するのは重要な準備だ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[[Testing: Review webpage comments and metadata  (OWASP-IG-00x)|4.2.x Review webpage comments and metadata(OWASP-IG-00x)]]
 Review the webpage metadata, HTML, JavaScript comments for sensitive information and disabled links/scripts.</seg>
       </tuv>
