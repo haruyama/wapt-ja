@@ -151,6 +151,14 @@ The process involves an active analysis of the application for any weaknesses, t
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clearly, focusing only on the web application will not be an exhaustive test.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140208T094801Z" creationid="haruyama" creationdate="20140208T094801Z">
+        <seg>明らかに, Webアプリケーションにのみ集中するのは網羅的なテストではありません.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discovery analysis can be useful to reveal details such as web applications used for administrative purposes.</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140127T091923Z" creationid="haruyama" creationdate="20140127T091923Z">
@@ -462,6 +470,16 @@ Review the webpage metadata, HTML, JavaScript comments for sensitive information
       <tuv lang="JA" changeid="haruyama" changedate="20140208T091752Z" creationid="haruyama" creationdate="20140208T090054Z">
         <seg>[[Testing: Review webpage comments and metadata  (OWASP-IG-00x)|4.2.x ウェブページのコメントとメタデータのレビュー(OWASP-IG-00x)]]
 重要の情報や無効となったリンクやスクリプトがないか, ウェブページのメタデータや HTML/Javascript のコメントをレビューします.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[[Testing: Search engine discovery/reconnaissance (OWASP-IG-002)|4.2.2 Search Engine Discovery/Reconnaissance  (OWASP-IG-002)]]&lt;br&gt;
+Search engines, such as Google, can be used to discover issues related to the web application structure or error pages produced by the application that have been publicly exposed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140208T094725Z" creationid="haruyama" creationdate="20140208T094725Z">
+        <seg>[[Testing: Search engine discovery/reconnaissance (OWASP-IG-002)|4.2.2 サーチエンジンによる発見や調査  (OWASP-IG-002)]]&lt;br&gt;
+Google のようはサーチエンジンは, Webアプリケーションの構造や公けに露出したアプリケーションによって生成されたエラーページに関する問題を発見するのに利用できる.</seg>
       </tuv>
     </tu>
     <tu>
