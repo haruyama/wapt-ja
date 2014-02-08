@@ -317,6 +317,14 @@ The test is divided into 2 phases:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This section will help you identify and map out every area within the application that should be investigated once your enumeration and mapping phase has been completed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140208T092247Z" creationid="haruyama" creationdate="20140208T092247Z">
+        <seg>この節では, 列挙とマッピングフェイズが完了した後で調査すべきアプリケーション内のすべての領域を識別し計画する方法を示します.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This task can be carried out in many different ways.</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140127T091209Z" creationid="haruyama" creationdate="20140127T091209Z">
