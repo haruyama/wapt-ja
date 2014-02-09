@@ -441,6 +441,14 @@ The test is divided into 2 phases:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This test tends to find admin interfaces and understand if it is possible to exploit it to access to admin functionality.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T055249Z" creationid="haruyama" creationdate="20140209T055249Z">
+        <seg>このテストは, 管理インタフェイスを見つけ 管理機能へのアクセスを奪うことが可能かを調べます.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thus mapping all possible paths through the code to facilitate thorough testing is paramount.</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140127T091151Z" creationid="haruyama" creationdate="20140127T091151Z">
@@ -644,6 +652,16 @@ This phase of the Information Gathering process consists of browsing and capturi
       <tuv lang="JA" changeid="haruyama" changedate="20140208T091731Z" creationid="haruyama" creationdate="20140208T085847Z">
         <seg>[[Testing: Spiders, Robots, and Crawlers  (OWASP-IG-001)|4.2.1 スパイダーやロボット, クローラー (OWASP-IG-001)]] [rename to "Review webserver metafiles" ]
 情報収集プロセスのこのフェイズでは, テストするアプリケーションに関する資源をブラウズし保存することから構成されます.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[[Testing_for_Admin_Interfaces  (OWASP-CM-007)|4.3.7 Infrastructure and Application Admin Interfaces (OWASP-CM-007)]]&lt;br&gt;
+Many applications use a common path for administrative interfaces which can be used to guess or brute force administrative passwords.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T055157Z" creationid="haruyama" creationdate="20140209T055157Z">
+        <seg>[[Testing_for_Admin_Interfaces  (OWASP-CM-007)|4.3.7 インフラとアプリケーションの管理インタフェイス (OWASP-CM-007)]]&lt;br&gt;
+多くのアプリケーションは, 管理パスワードを推測したりブルートフォースするのに使える管理インターフェイスのための共通のパスを用いています.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
