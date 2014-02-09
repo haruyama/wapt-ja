@@ -209,6 +209,14 @@ https://www.example.com/login/Authentic_Form.html
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In fact it takes only a single vulnerability to undermine the security of the entire infrastructure, and even small and (almost) unimportant problems may evolve into severe risks for another application on the same server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T052349Z" creationid="haruyama" creationdate="20140209T052349Z">
+        <seg>実際, たった1つの脆弱性が全体のインフラのセキュリティを台無しにすることもありますし, 小さく(ほとんど)重要でない問題が同じサーバの別のアプリケーションの深刻なリクスに反転することさえあります.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Indeed, penetration testing is only an appropriate technique for testing the security of web applications under certain circumstances.</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140126T095337Z" creationid="haruyama" creationdate="20140126T095337Z">
