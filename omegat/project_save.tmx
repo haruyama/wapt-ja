@@ -522,6 +522,18 @@ Application fingerprint is the first step of the Information Gathering process; 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[[Testing for application configuration management (OWASP-CM-004)|4.3.4 Application Configuration Management Testing  (OWASP-CM-004)]]&lt;br&gt;
+Web applications hide some information that is usually not considered during the development or configuration of the application itself.&lt;br&gt;
+This data can be discovered in the source code, in the log files or in the default error codes of the web servers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T053031Z" creationid="haruyama" creationdate="20140209T053031Z">
+        <seg>[[Testing for application configuration management (OWASP-CM-004)|4.3.4 アプリケーションの構成管理のテスト  (OWASP-CM-004)]]&lt;br&gt;
+Web applications hide some information that is usually not considered during the development or configuration of the application itself.&lt;br&gt;
+This data can be discovered in the source code, in the log files or in the default error codes of the web servers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[[Testing for infrastructure configuration management (OWASP-CM-003)|4.3.3 Infrastructure Configuration Management Testing  (OWASP-CM-003)]]&lt;br&gt;
 The intrinsic complexity of interconnected and heterogeneous web server infrastructure, which can count hundreds of web applications, makes configuration management and review a fundamental step in testing and deploying every single application.</seg>
       </tuv>
