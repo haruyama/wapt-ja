@@ -522,6 +522,16 @@ During a penetration test, web applications may divulge information that is not 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[[Testing for HTTP Methods and XST  (OWASP-CM-008)|4.3.8 Testing for HTTP Methods and XST (OWASP-CM-008)]]&lt;br&gt;
+In this test we check that the web server is not configured to allow potentially dangerous HTTP commands (methods) and that Cross Site Tracing (XST) is not possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T055602Z" creationid="haruyama" creationdate="20140209T055602Z">
+        <seg>[[Testing for HTTP Methods and XST  (OWASP-CM-008)|4.3.8 HTTP のメソッドと XST のテスト (OWASP-CM-008)]]&lt;br&gt;
+このテストでは, web サーバが潜在的に危険な HTTP のコマンド(メソッド)を有効に構成していないか, クロスサイトトレーイング(XST)が可能でないかを検査します.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[[Testing for Old, Backup and Unreferenced Files (OWASP-CM-006)|4.3.6 Old, Backup and Unreferenced Files  (OWASP-CM-006)]]&lt;br&gt;
 Redundant, readable and downloadable files on a web server, such as old, backup and renamed files, are a big source of information leakage.</seg>
       </tuv>
