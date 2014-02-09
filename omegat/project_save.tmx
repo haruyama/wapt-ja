@@ -337,8 +337,8 @@ OWASP ウェブアプリケーションペネトレーションテスト法は, 
       <tuv lang="EN-US">
         <seg>The listener could reveal sensitive data as well as configuration settings or running database instances if insecurely configured and probed with manual or automated techniques.</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140209T051203Z" creationid="haruyama" creationdate="20140209T050926Z">
-        <seg>リスナは, 安全でなく設定された場合にマニュアルないし自動化された技術で検査されると, 機密データだけでなく設定や実行しているデータベースインスタンスについて漏らしてしまいます.</seg>
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T051930Z" creationid="haruyama" creationdate="20140209T050926Z">
+        <seg>リスナは, 安全でなく設定された場合にマニュアルないし自動化された技術で検査されると, 機密データだけでなく構成の設定や実行しているデータベースインスタンスについて漏らしてしまいます.</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,6 +502,16 @@ Application fingerprint is the first step of the Information Gathering process; 
       <tuv lang="JA" changeid="haruyama" changedate="20140208T093829Z" creationid="haruyama" creationdate="20140208T093635Z">
         <seg>[[Testing for Web Server Fingerprint (OWASP-IG-00x)|4.2.x ウェブサーバの指紋のテスト  (OWASP-IG-00x)]]&lt;br&gt;
 アプリケーションの指紋の収集は, 情報収集プロセスの最初のステップです. 動作しているウェブサーバのバージョンや種類を知ることで, テスト中に用いる既知の脆弱性や適切なエクスプロイトを決定できます.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[[Testing for infrastructure configuration management (OWASP-CM-003)|4.3.3 Infrastructure Configuration Management Testing  (OWASP-CM-003)]]&lt;br&gt;
+The intrinsic complexity of interconnected and heterogeneous web server infrastructure, which can count hundreds of web applications, makes configuration management and review a fundamental step in testing and deploying every single application.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T052203Z" creationid="haruyama" creationdate="20140209T051925Z">
+        <seg>[[Testing for infrastructure configuration management (OWASP-CM-003)|4.3.3 インフラ構成管理のテスト  (OWASP-CM-003)]]&lt;br&gt;
+数百のWebアプリケーションからなることもある, 相互接続された様々な種類の Web サーバインフラ固有の複雑さは, 構成の管理を行なうことと, 1つ1つのアプリケーションについてテストとデプロイの基本的な手順をレビューすることを必要とします.</seg>
       </tuv>
     </tu>
     <tu>
