@@ -95,6 +95,14 @@ The process involves an active analysis of the application for any weaknesses, t
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A correct approach to this topic is fundamental during a security assessment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T053414Z" creationid="haruyama" creationdate="20140209T053414Z">
+        <seg>この問題への適切なアプローチは, セキュリティ評価の際に不可欠だ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A spreadsheet with the directory tree of the application and all the access points would be useful for the second phase.&lt;br&gt; &lt;br&gt;
 * Active mode: in this phase, the tester begins to test using the methodology described in the follow paragraphs.</seg>
       </tuv>
