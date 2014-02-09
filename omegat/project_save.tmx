@@ -237,8 +237,8 @@ In many cases, error codes can be easily invoked without the need for specialist
       <tuv lang="EN-US">
         <seg>Information such as source code, HTTP methods permitted, administrative functionality, authentication methods, and infrastructural configurations can be obtained.&lt;br&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140209T045620Z" creationid="haruyama" creationdate="20140209T045620Z">
-        <seg>ソースコードや許可されている HTTP のメソッド Information such as source code, HTTP methods permitted, administrative functionality, authentication methods, and infrastructural configurations can be obtained.&lt;br&gt;</seg>
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T045708Z" creationid="haruyama" creationdate="20140209T045620Z">
+        <seg>ソースコードや許可されている HTTP のメソッド, 管理機能, 認証法, インフラの設定といった情報が得られる場合がある.</seg>
       </tuv>
     </tu>
     <tu>
@@ -444,6 +444,18 @@ During a penetration test, web applications may divulge information that is not 
       <tuv lang="JA" changeid="haruyama" changedate="20140208T094008Z" creationid="haruyama" creationdate="20140208T094008Z">
         <seg>[[Testing for Error Codes (OWASP-IG-006)|4.2.6 エラーコードの解析  (OWASP-IG-006)]]&lt;br&gt;
 侵入テスト中に, ウェブアプリケーションは, エンドユーザに見られることを意図してない情報を漏らすことがあります.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[[Testing for SSL-TLS (OWASP-CM-001)|4.3.1 SSL/TLS Testing (OWASP-CM-001)]]&lt;br&gt;
+SSL and TLS are two protocols that provide, with the support of cryptography, secure channels for the protection, confidentiality, and authentication of the information being transmitted.&lt;br&gt;
+Considering the criticality of these security implementations, it is important to verify the usage of a strong cipher algorithm and its proper implementation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T050015Z" creationid="haruyama" creationdate="20140209T050015Z">
+        <seg>[[Testing for SSL-TLS (OWASP-CM-001)|4.3.1 SSL/TLS のテスト (OWASP-CM-001)]]&lt;br&gt;
+SSL と TLS は, 暗号のサポートにより転送する情報の保護, 機密性, 認証をする安全なチャンネルを提供するプロトコルだ.&lt;br&gt;
+これらのセキュリティ実装の重要性を考慮すると, 強い暗号アルゴリズムとその適切な実装の利用がされているか確認するのが重要だ.</seg>
       </tuv>
     </tu>
     <tu>
