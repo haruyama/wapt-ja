@@ -438,6 +438,16 @@ This analysis is important because often there is not a direct link connecting t
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[[Testing for DB Listener  (OWASP-CM-002)|4.3.2 DB Listener Testing (OWASP-CM-002)]]&lt;br&gt;
+During the configuration of a database server, many DB administrators do not adequately consider the security of the DB listener component.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T050623Z" creationid="haruyama" creationdate="20140209T050623Z">
+        <seg>[[Testing for DB Listener  (OWASP-CM-002)|4.3.2 DB リスナのテスト (OWASP-CM-002)]]&lt;br&gt;
+During the configuration of a database server, many DB administrators do not adequately consider the security of the DB listener component.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[[Testing for Error Codes (OWASP-IG-006)|4.2.6 Analysis of Error Codes  (OWASP-IG-006)]]&lt;br&gt;
 During a penetration test, web applications may divulge information that is not intended to be seen by an end user.</seg>
       </tuv>
