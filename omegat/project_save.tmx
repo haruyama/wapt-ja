@@ -526,10 +526,10 @@ Application fingerprint is the first step of the Information Gathering process; 
 Web applications hide some information that is usually not considered during the development or configuration of the application itself.&lt;br&gt;
 This data can be discovered in the source code, in the log files or in the default error codes of the web servers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140209T053031Z" creationid="haruyama" creationdate="20140209T053031Z">
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T053235Z" creationid="haruyama" creationdate="20140209T053031Z">
         <seg>[[Testing for application configuration management (OWASP-CM-004)|4.3.4 アプリケーションの構成管理のテスト  (OWASP-CM-004)]]&lt;br&gt;
-Web applications hide some information that is usually not considered during the development or configuration of the application itself.&lt;br&gt;
-This data can be discovered in the source code, in the log files or in the default error codes of the web servers.</seg>
+Web アプリケーションは, アプリケーション自身の開発や設定の間に通常考慮されていないいくつかの情報を隠します.&lt;br&gt;
+このデータは, ソースコードやログファイル, Web サーバのデフォルトのエラーコードから発見できることがあります.</seg>
       </tuv>
     </tu>
     <tu>
