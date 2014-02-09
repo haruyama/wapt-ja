@@ -291,10 +291,18 @@ In many cases, error codes can be easily invoked without the need for specialist
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is necessary to verify the presence of these files because they may contain parts of source code, installation paths as well as passwords for applications and/or databases.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T054732Z" creationid="haruyama" creationdate="20140209T054732Z">
+        <seg>これらは ソースコードの一部やインストールのパス, アプリケーションやデータベースのパスワードを含むことがあるので, このようなファイルが存在するか確認する必要があります.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Often analysis of the infrastructure and topology architecture can reveal a great deal about a web application.</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140209T045534Z" creationid="haruyama" creationdate="20140209T045534Z">
-        <seg>インフラとトポロジアーキテクチャの分析は, しばしばWebアプリケーションについて多くの情報をもたらします.</seg>
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T054549Z" creationid="haruyama" creationdate="20140209T045534Z">
+        <seg>インフラとトポロジアーキテクチャの分析は, しばしば web アプリケーションについて多くの情報をもたらします.</seg>
       </tuv>
     </tu>
     <tu>
@@ -506,6 +514,16 @@ During a penetration test, web applications may divulge information that is not 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[[Testing for Old, Backup and Unreferenced Files (OWASP-CM-006)|4.3.6 Old, Backup and Unreferenced Files  (OWASP-CM-006)]]&lt;br&gt;
+Redundant, readable and downloadable files on a web server, such as old, backup and renamed files, are a big source of information leakage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T054632Z" creationid="haruyama" creationdate="20140209T054543Z">
+        <seg>[[Testing for Old, Backup and Unreferenced Files (OWASP-CM-006)|4.3.6 古い, バックアップ, 参照されていないファイル  (OWASP-CM-006)]]&lt;br&gt;
+古かったり バックアップだったり, 改名されたファイルのような web サーバ上の 冗長で読み取りできダウンロード可能なファイルは, 情報漏洩の大きな源です.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[[Testing for SSL-TLS (OWASP-CM-001)|4.3.1 SSL/TLS Testing (OWASP-CM-001)]]&lt;br&gt;
 SSL and TLS are two protocols that provide, with the support of cryptography, secure channels for the protection, confidentiality, and authentication of the information being transmitted.&lt;br&gt;
 Considering the criticality of these security implementations, it is important to verify the usage of a strong cipher algorithm and its proper implementation.</seg>
@@ -553,9 +571,9 @@ Web アプリケーションは, アプリケーション自身の開発や設�
         <seg>[[Testing for file extensions handling  (OWASP-CM-005)|4.3.5 Testing for File Extensions Handling (OWASP-CM-005)]]&lt;br&gt;
 The file extensions present in a web server or a web application make it possible to identify the technologies which compose the target application, e.g. jsp and asp extensions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140209T053746Z" creationid="haruyama" creationdate="20140209T053746Z">
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T054601Z" creationid="haruyama" creationdate="20140209T053746Z">
         <seg>[[Testing for file extensions handling  (OWASP-CM-005)|4.3.5 ファイル拡張子の取り扱いのテスト (OWASP-CM-005)]]&lt;br&gt;
-Web サーバや Web アプリケーションで提示されるファイルの拡張子は, ターゲットのアプリケーションを構成する技術を特定するのに使えます. たとえば jsp や asp といった拡張子です.</seg>
+web サーバや web アプリケーションで提示されるファイルの拡張子は, ターゲットのアプリケーションを構成する技術を特定するのに使えます. たとえば jsp や asp といった拡張子です.</seg>
       </tuv>
     </tu>
     <tu>
