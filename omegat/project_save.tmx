@@ -227,8 +227,8 @@ https://www.example.com/login/Authentic_Form.html
       <tuv lang="EN-US">
         <seg>Information revealed will often be useful to a tester serving as input to more impacting follow-on tests.</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140209T051132Z" creationid="haruyama" creationdate="20140209T051132Z">
-        <seg>明らかにInformation revealed will often be useful to a tester serving as input to more impacting follow-on tests.</seg>
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T051306Z" creationid="haruyama" creationdate="20140209T051132Z">
+        <seg>明らかになった情報は, よりインパクトのある以降の攻撃の入力としてテスタにとって有用になる場合があります.</seg>
       </tuv>
     </tu>
     <tu>
