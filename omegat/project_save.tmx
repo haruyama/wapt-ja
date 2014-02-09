@@ -225,6 +225,14 @@ https://www.example.com/login/Authentic_Form.html
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Information revealed will often be useful to a tester serving as input to more impacting follow-on tests.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T051132Z" creationid="haruyama" creationdate="20140209T051132Z">
+        <seg>明らかにInformation revealed will often be useful to a tester serving as input to more impacting follow-on tests.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Information such as error codes can inform the tester about technologies and products being used by the application.&lt;br&gt;
 In many cases, error codes can be easily invoked without the need for specialist skills or tools, due to bad exception handling design and coding.</seg>
       </tuv>
@@ -237,8 +245,8 @@ In many cases, error codes can be easily invoked without the need for specialist
       <tuv lang="EN-US">
         <seg>Information such as source code, HTTP methods permitted, administrative functionality, authentication methods, and infrastructural configurations can be obtained.&lt;br&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140209T045708Z" creationid="haruyama" creationdate="20140209T045620Z">
-        <seg>ソースコードや許可されている HTTP のメソッド, 管理機能, 認証法, インフラの設定といった情報が得られる場合がある.</seg>
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T051136Z" creationid="haruyama" creationdate="20140209T045620Z">
+        <seg>ソースコードや許可されている HTTP のメソッド, 管理機能, 認証法, インフラの設定といった情報が得られる場合があります.</seg>
       </tuv>
     </tu>
     <tu>
@@ -329,8 +337,8 @@ OWASP ウェブアプリケーションペネトレーションテスト法は, 
       <tuv lang="EN-US">
         <seg>The listener could reveal sensitive data as well as configuration settings or running database instances if insecurely configured and probed with manual or automated techniques.</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140209T050926Z" creationid="haruyama" creationdate="20140209T050926Z">
-        <seg>リスナは, 安全でなく設定された場合にマニュアルないし自動化された技術で検査されると, 機密データだけでなく設定や実行しているデータベースインスタンスについて漏らしてしまう.</seg>
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T051203Z" creationid="haruyama" creationdate="20140209T050926Z">
+        <seg>リスナは, 安全でなく設定された場合にマニュアルないし自動化された技術で検査されると, 機密データだけでなく設定や実行しているデータベースインスタンスについて漏らしてしまいます.</seg>
       </tuv>
     </tu>
     <tu>
@@ -449,9 +457,9 @@ This analysis is important because often there is not a direct link connecting t
         <seg>[[Testing for DB Listener  (OWASP-CM-002)|4.3.2 DB Listener Testing (OWASP-CM-002)]]&lt;br&gt;
 During the configuration of a database server, many DB administrators do not adequately consider the security of the DB listener component.</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140209T050700Z" creationid="haruyama" creationdate="20140209T050623Z">
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T051157Z" creationid="haruyama" creationdate="20140209T050623Z">
         <seg>[[Testing for DB Listener  (OWASP-CM-002)|4.3.2 DB リスナのテスト (OWASP-CM-002)]]&lt;br&gt;
-データベースサーバの設定で, 多くの DB 管理者は DBリスナコンポーネントのセキュリティを適切に考慮していない.</seg>
+データベースサーバの設定で, 多くの DB 管理者は DBリスナコンポーネントのセキュリティを適切に考慮していません.</seg>
       </tuv>
     </tu>
     <tu>
@@ -470,10 +478,10 @@ During a penetration test, web applications may divulge information that is not 
 SSL and TLS are two protocols that provide, with the support of cryptography, secure channels for the protection, confidentiality, and authentication of the information being transmitted.&lt;br&gt;
 Considering the criticality of these security implementations, it is important to verify the usage of a strong cipher algorithm and its proper implementation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140209T050015Z" creationid="haruyama" creationdate="20140209T050015Z">
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T051153Z" creationid="haruyama" creationdate="20140209T050015Z">
         <seg>[[Testing for SSL-TLS (OWASP-CM-001)|4.3.1 SSL/TLS のテスト (OWASP-CM-001)]]&lt;br&gt;
-SSL と TLS は, 暗号のサポートにより転送する情報の保護, 機密性, 認証をする安全なチャンネルを提供するプロトコルだ.&lt;br&gt;
-これらのセキュリティ実装の重要性を考慮すると, 強い暗号アルゴリズムとその適切な実装の利用がされているか確認するのが重要だ.</seg>
+SSL と TLS は, 暗号のサポートにより転送する情報の保護, 機密性, 認証をする安全なチャンネルを提供するプロトコルです.&lt;br&gt;
+これらのセキュリティ実装の重要性を考慮すると, 強い暗号アルゴリズムとその適切な実装の利用がされているか確認するのは重要です.</seg>
       </tuv>
     </tu>
     <tu>
