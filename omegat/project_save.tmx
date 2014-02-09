@@ -193,6 +193,14 @@ The process involves an active analysis of the application for any weaknesses, t
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File extensions can also expose additional systems connected to the application.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T053822Z" creationid="haruyama" creationdate="20140209T053815Z">
+        <seg>ファイルの拡張子は, アプリケーションに接続している別のシステムについての情報を明らかにする場合もあります.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, the tester could find the following:
 &lt;pre&gt;
 https://www.example.com/login/Authentic_Form.html
@@ -538,6 +546,16 @@ This data can be discovered in the source code, in the log files or in the defau
         <seg>[[Testing for application configuration management (OWASP-CM-004)|4.3.4 アプリケーションの構成管理のテスト  (OWASP-CM-004)]]&lt;br&gt;
 Web アプリケーションは, アプリケーション自身の開発や設定の間に通常考慮されていないいくつかの情報を隠します.&lt;br&gt;
 このデータは, ソースコードやログファイル, Web サーバのデフォルトのエラーコードから発見できることがあります.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[[Testing for file extensions handling  (OWASP-CM-005)|4.3.5 Testing for File Extensions Handling (OWASP-CM-005)]]&lt;br&gt;
+The file extensions present in a web server or a web application make it possible to identify the technologies which compose the target application, e.g. jsp and asp extensions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T053746Z" creationid="haruyama" creationdate="20140209T053746Z">
+        <seg>[[Testing for file extensions handling  (OWASP-CM-005)|4.3.5 ファイル拡張子の取り扱いのテスト (OWASP-CM-005)]]&lt;br&gt;
+Web サーバや Web アプリケーションで提示されるファイルの拡張子は, ターゲットのアプリケーションを構成する技術を特定するのに使えます. たとえば jsp や asp といった拡張子です.</seg>
       </tuv>
     </tu>
     <tu>
