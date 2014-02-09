@@ -327,6 +327,14 @@ OWASP ウェブアプリケーションペネトレーションテスト法は, 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The listener could reveal sensitive data as well as configuration settings or running database instances if insecurely configured and probed with manual or automated techniques.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T050926Z" creationid="haruyama" creationdate="20140209T050926Z">
+        <seg>リスナは, 安全でなく設定された場合にマニュアルないし自動化された技術で検査されると, 機密データだけでなく設定や実行しているデータベースインスタンスについて漏らしてしまう.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The security test should endeavour to test as much of the code base as possible.</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140127T090932Z" creationid="haruyama" creationdate="20140127T090932Z">
