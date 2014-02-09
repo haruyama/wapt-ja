@@ -441,9 +441,9 @@ This analysis is important because often there is not a direct link connecting t
         <seg>[[Testing for DB Listener  (OWASP-CM-002)|4.3.2 DB Listener Testing (OWASP-CM-002)]]&lt;br&gt;
 During the configuration of a database server, many DB administrators do not adequately consider the security of the DB listener component.</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140209T050623Z" creationid="haruyama" creationdate="20140209T050623Z">
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T050700Z" creationid="haruyama" creationdate="20140209T050623Z">
         <seg>[[Testing for DB Listener  (OWASP-CM-002)|4.3.2 DB リスナのテスト (OWASP-CM-002)]]&lt;br&gt;
-During the configuration of a database server, many DB administrators do not adequately consider the security of the DB listener component.</seg>
+データベースサーバの設定で, 多くの DB 管理者は DBリスナコンポーネントのセキュリティを適切に考慮していない.</seg>
       </tuv>
     </tu>
     <tu>
