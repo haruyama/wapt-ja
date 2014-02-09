@@ -235,10 +235,26 @@ In many cases, error codes can be easily invoked without the need for specialist
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Information such as source code, HTTP methods permitted, administrative functionality, authentication methods, and infrastructural configurations can be obtained.&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T045620Z" creationid="haruyama" creationdate="20140209T045620Z">
+        <seg>ソースコードや許可されている HTTP のメソッド Information such as source code, HTTP methods permitted, administrative functionality, authentication methods, and infrastructural configurations can be obtained.&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It cannot be as comprehensive as the information possibly gathered by performing a broader infrastructure analysis.</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140208T094927Z" creationid="haruyama" creationdate="20140208T094927Z">
         <seg>より広いインフラの分析を実行することで得られる情報のほうが包括的です.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Often analysis of the infrastructure and topology architecture can reveal a great deal about a web application.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140209T045534Z" creationid="haruyama" creationdate="20140209T045534Z">
+        <seg>インフラとトポロジアーキテクチャの分析は, しばしばWebアプリケーションについて多くの情報をもたらします.</seg>
       </tuv>
     </tu>
     <tu>
