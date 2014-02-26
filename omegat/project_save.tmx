@@ -497,6 +497,14 @@ The test is divided into 2 phases:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These types of tests require that security professionals think a bit differently, develop abused and misuse cases and use many of the testing techniques embraced by functional testers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T082215Z" creationid="haruyama" creationdate="20140226T082215Z">
+        <seg>これらの種類のテストは, セキュリティのプロにちょっと違った考えをしたり, 悪用法を開発したり, 状況を悪用したり, 機能テスターによって採用されたテスト技術の多くを用いることを要求する.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This Chapter describes the OWASP Web Application Penetration testing methodology and explains how to test each vulnerability.</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140126T100140Z" creationid="haruyama" creationdate="20140126T073904Z">
