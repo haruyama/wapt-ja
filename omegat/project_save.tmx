@@ -86,6 +86,14 @@ http://www.example.com/Appx.jsp?a=1&amp;b=1
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>== Brief Summary of Business Logic Vulnerability==</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T075334Z" creationid="haruyama" creationdate="20140226T075334Z">
+        <seg>== ビジネスロジック脆弱性の概要 ==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Web Application Penetration Test focuses only on evaluating the security of a web application.&lt;br&gt;
 The process involves an active analysis of the application for any weaknesses, technical flaws, or vulnerabilities.</seg>
       </tuv>
@@ -311,6 +319,14 @@ In many cases, error codes can be easily invoked without the need for specialist
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140126T095211Z" creationid="haruyama" creationdate="20140126T095211Z">
         <seg>ペネトレーションテストは, テストされるべきすべての可能性のある問題の完全なリストを定義できる正確な科学になることはありません.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Testing for business logic flaws in a multi-functional dynamic web application requires thinking in unconventional methods.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T075536Z" creationid="haruyama" creationdate="20140226T075536Z">
+        <seg>たくさんの機能がある動的な web アプリケーションのビジネスロジックの欠陥のテストには, 型破りな方法で思考することが必要です.</seg>
       </tuv>
     </tu>
     <tu>
