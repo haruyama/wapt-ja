@@ -241,6 +241,14 @@ https://www.example.com/login/Authentic_Form.html
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition, this type of vulnerability is usually one of the hardest to detect, and usually application specific but, at the same time, usually one of the most detrimental to the application, if exploited.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T080801Z" creationid="haruyama" creationdate="20140226T080801Z">
+        <seg>加えて, このタイプの脆弱性は通常検出するのがもっとも難しいものの1つでかつ通常アプリケーションに固有で, それと同時に通常もし悪用されるとアプリケーションのとって最も有害なものの1つとなる.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In fact it takes only a single vulnerability to undermine the security of the entire infrastructure, and even small and (almost) unimportant problems may evolve into severe risks for another application on the same server.</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140209T052349Z" creationid="haruyama" creationdate="20140209T052349Z">
