@@ -257,6 +257,14 @@ https://www.example.com/login/Authentic_Form.html
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this simplistic example, does the application provide access by failing open; deny access, or just error out with a 500 message?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T080117Z" creationid="haruyama" creationdate="20140226T080037Z">
+        <seg>この単純な例で, アプリケーションはオープンの失敗によるアクセスをアクセスの拒否In this simplistic example, does the application provide access by failing open; deny access, or just error out with a 500 message?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Indeed, penetration testing is only an appropriate technique for testing the security of web applications under certain circumstances.</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140126T095337Z" creationid="haruyama" creationdate="20140126T095337Z">
@@ -516,8 +524,8 @@ The test is divided into 2 phases:
       <tuv lang="EN-US">
         <seg>What happens if you go from step 1 straight to step 3?</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140226T075809Z" creationid="haruyama" creationdate="20140226T075809Z">
-        <seg>ステップ 1 から直接ステップ 3 移動したらどうなるでしょうか?</seg>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T080041Z" creationid="haruyama" creationdate="20140226T075809Z">
+        <seg>ステップ 1 から直接ステップ 3 へ移動したらどうなるでしょうか?</seg>
       </tuv>
     </tu>
     <tu>
