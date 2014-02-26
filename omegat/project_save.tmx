@@ -405,12 +405,28 @@ We think it is important to use a method to test all known vulnerabilities and d
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The classification of business logic flaws has been under-studied; although exploitation of business flaws frequently happens in real-world systems, and many applied vulnerability researchers investigate them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T081429Z" creationid="haruyama" creationdate="20140226T081429Z">
+        <seg>現実のシステムでビジネスの欠陥の悪用が頻繁に起こっていて多くの応用脆弱性研究者がそれらを調査しているにも関わらず, ビジネスロジックの欠陥の分類は研究中だ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The goal is to collect all the possible testing techniques, explain them, and keep the guide updated.&lt;br&gt;
 The OWASP Web Application Penetration Testing method is based on the black box approach.</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140126T095451Z" creationid="haruyama" creationdate="20140126T095451Z">
         <seg>すべての可能なテストテクニックを収集し, それらを説明し, ガイドを更新し続けることが目標です.&lt;br&gt;
 OWASP ウェブアプリケーションペネトレーションテスト法は, ブラックボックスアプローチに基きます.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The greatest focus is in web applications.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T081458Z" creationid="haruyama" creationdate="20140226T081458Z">
+        <seg>最大の焦点は web アプリケーションの中にある.</seg>
       </tuv>
     </tu>
     <tu>
