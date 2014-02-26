@@ -169,6 +169,14 @@ The process involves an active analysis of the application for any weaknesses, t
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automation of business logic abuse cases is not possible and remains a manual art relying on the skills of the tester and their knowledge of the complete business process and its rules.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T082327Z" creationid="haruyama" creationdate="20140226T082327Z">
+        <seg>ビジネスロジックの悪用ケースを自動化するのは不可能で, テスターのスキルと完全なビジネスプロセスとそのルールの知識に依存するマニュアルの芸術として残っている.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By using public tools (search engines), scanners, sending simple HTTP requests, or specially crafted requests, it is possible to force the application to leak information, e.g., disclosing error messages or revealing the versions and technologies used.&lt;br&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140127T091509Z" creationid="haruyama" creationdate="20140127T091509Z">
