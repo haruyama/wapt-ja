@@ -489,6 +489,14 @@ The test is divided into 2 phases:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This type of vulnerability cannot be detected by a vulnerability scanner and relies upon the skills and creativity of the penetration tester.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T080428Z" creationid="haruyama" creationdate="20140226T080428Z">
+        <seg>このタイプの脆弱性は, 脆弱性スキャナでは検出できません. 侵入テスターのスキルと創造性に依存します.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thus mapping all possible paths through the code to facilitate thorough testing is paramount.</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140127T091151Z" creationid="haruyama" creationdate="20140127T091151Z">
