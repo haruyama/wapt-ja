@@ -153,6 +153,14 @@ The process involves an active analysis of the application for any weaknesses, t
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally, having a direct line to the developers (if possible) during testing will help out greatly, if any questions arise regarding the application's functionality.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T084145Z" creationid="haruyama" creationdate="20140226T084145Z">
+        <seg>加えて, アプリケーションの機能について疑問が生じたなら, (可能なら)テスト中開発者と直接やりとりできると助かります.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All the gates found in this phase represent a point of testing.</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140126T101341Z" creationid="haruyama" creationdate="20140126T101341Z">
@@ -301,6 +309,14 @@ https://www.example.com/login/Authentic_Form.html
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140209T052823Z" creationid="haruyama" creationdate="20140209T052823Z">
         <seg>これらの問題に対処するためには, 構成と既知のセキュリティ問題についての詳細なレビューを行なうのが最も重要です.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In these situations, it is best to have the client walk you through the application, so that you may gain a better understanding of the limits and intended functionality of the application, before the actual test begins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T084023Z" creationid="haruyama" creationdate="20140226T084023Z">
+        <seg>この状況では, 実際のテストを始める前に, クライアントにアプリケーションを説明してもらいアプリケーションの制限や意図している機能についてより理解を深めるのが最良です.</seg>
       </tuv>
     </tu>
     <tu>
