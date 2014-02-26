@@ -225,6 +225,14 @@ https://www.example.com/login/Authentic_Form.html
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If an application's authentication mechanism is developed with the intention of performing steps 1, 2, 3 in that specific order to authenticate a user.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T075740Z" creationid="haruyama" creationdate="20140226T075710Z">
+        <seg>アプリケーションの認証メカニズムが, ユーザを認証するのにステップ 1,2,3 の順に実行することを意図して開発されていたとします.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition, it can reveal old versions of files or artifacts such as undeleted, obsolete scripts, crafted during the test/development phase or as the result of maintenance.</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140127T092257Z" creationid="haruyama" creationdate="20140127T092257Z">
@@ -325,8 +333,8 @@ In many cases, error codes can be easily invoked without the need for specialist
       <tuv lang="EN-US">
         <seg>Testing for business logic flaws in a multi-functional dynamic web application requires thinking in unconventional methods.</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140226T075536Z" creationid="haruyama" creationdate="20140226T075536Z">
-        <seg>たくさんの機能がある動的な web アプリケーションのビジネスロジックの欠陥のテストには, 型破りな方法で思考することが必要です.</seg>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T075613Z" creationid="haruyama" creationdate="20140226T075536Z">
+        <seg>たくさんの機能がある動的な web アプリケーションのビジネスロジックの欠陥のテストには, 型破りなやる方で考えることが必要です.</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,6 +510,14 @@ The test is divided into 2 phases:
 * Denial of Service Testing 
 * Web Services Testing 
 * Ajax Testing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What happens if you go from step 1 straight to step 3?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T075809Z" creationid="haruyama" creationdate="20140226T075809Z">
+        <seg>ステップ 1 から直接ステップ 3 移動したらどうなるでしょうか?</seg>
       </tuv>
     </tu>
     <tu>
