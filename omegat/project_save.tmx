@@ -259,8 +259,8 @@ https://www.example.com/login/Authentic_Form.html
       <tuv lang="EN-US">
         <seg>In this simplistic example, does the application provide access by failing open; deny access, or just error out with a 500 message?</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140226T080117Z" creationid="haruyama" creationdate="20140226T080037Z">
-        <seg>この単純な例で, アプリケーションはオープンの失敗によるアクセスをアクセスの拒否In this simplistic example, does the application provide access by failing open; deny access, or just error out with a 500 message?</seg>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T080225Z" creationid="haruyama" creationdate="20140226T080037Z">
+        <seg>この単純な例で, アプリケーションはオープンの失敗時にアクセスを提供するでしょうか? アクセスの拒否? もしくは 単なる500メッセージ付きのエラー?</seg>
       </tuv>
     </tu>
     <tu>
@@ -445,6 +445,14 @@ The test is divided into 2 phases:
 * アプリケーション: テストされるブラックボックス
 テストは2つの段階に分割されます:
 * パッシブモード: パッシブモードでは, テスターはアプリケーションのロジックを理解しようと試み, アプリケーションをつつきます.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are many examples that can be made, but the one constant lesson is "think outside of conventional wisdom".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T080349Z" creationid="haruyama" creationdate="20140226T080349Z">
+        <seg>たくさんの例を作ることができますが, 1つの不変の教訓は, 「社会通念の外側を考えろ」 です.</seg>
       </tuv>
     </tu>
     <tu>
