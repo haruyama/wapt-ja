@@ -267,8 +267,8 @@ https://www.example.com/login/Authentic_Form.html
       <tuv lang="EN-US">
         <seg>If you are a third-party tester, then you're going to have to use your common sense and ask the business if different operations should be allowed by the application.</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140226T083750Z" creationid="haruyama" creationdate="20140226T083750Z">
-        <seg>サードパーティのテスターの場合, 異なる操作がアプリケーションに許可されるべきか常識を利用したりビジネスに問合せる必要がでてくるでしょう.</seg>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T083807Z" creationid="haruyama" creationdate="20140226T083750Z">
+        <seg>サードパーティのテスターの場合, 異なる操作がアプリケーションに許可されるべきか常識を利用したり企業に問合せる必要がでてくるでしょう.</seg>
       </tuv>
     </tu>
     <tu>
@@ -391,6 +391,14 @@ In many cases, error codes can be easily invoked without the need for specialist
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140126T095211Z" creationid="haruyama" creationdate="20140126T095211Z">
         <seg>ペネトレーションテストは, テストされるべきすべての可能性のある問題の完全なリストを定義できる正確な科学になることはありません.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes, in very complex applications, you will not have a full understanding of every aspect of the application initially.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T083843Z" creationid="haruyama" creationdate="20140226T083843Z">
+        <seg>非常に複雑なアプリケーションだと, 最初はアプリケーションの全ての側面を完全に理解できない場合もあるでしょう.</seg>
       </tuv>
     </tu>
     <tu>
