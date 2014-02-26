@@ -265,6 +265,14 @@ https://www.example.com/login/Authentic_Form.html
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are a third-party tester, then you're going to have to use your common sense and ask the business if different operations should be allowed by the application.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T083750Z" creationid="haruyama" creationdate="20140226T083750Z">
+        <seg>サードパーティのテスターの場合, 異なる操作がアプリケーションに許可されるべきか常識を利用したりビジネスに問合せる必要がでてくるでしょう.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition, it can reveal old versions of files or artifacts such as undeleted, obsolete scripts, crafted during the test/development phase or as the result of maintenance.</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140127T092257Z" creationid="haruyama" creationdate="20140127T092257Z">
@@ -359,6 +367,14 @@ In many cases, error codes can be easily invoked without the need for specialist
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140209T054732Z" creationid="haruyama" creationdate="20140209T054732Z">
         <seg>これらは ソースコードの一部やインストールのパス, アプリケーションやデータベースのパスワードを含むことがあるので, このようなファイルが存在するか確認する必要があります.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's generally pretty easy to identify the test and analysis cases to verify the application if you're familiar with the business.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T083641Z" creationid="haruyama" creationdate="20140226T083641Z">
+        <seg>ビジネスに精通してるなら, アプリケーションを検証するためにテストと分析の事例を識別するのは一般にとても簡単です.</seg>
       </tuv>
     </tu>
     <tu>
