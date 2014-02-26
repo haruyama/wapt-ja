@@ -355,6 +355,14 @@ In many cases, error codes can be easily invoked without the need for specialist
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Testing of business logic flaws is similar to the test types used by functional testers that focus on logical or finite state testing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T081825Z" creationid="haruyama" creationdate="20140226T081825Z">
+        <seg>ビジネスロジックの欠陥のテストは, 論理ないし有限状態のテストに焦点を当てる機能テスターが用いるテストの種類に似ている.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That means rough consensus, wider audience and participation.&lt;br&gt;
 This approach tends to create a defined Testing Methodology that will be:
 * Consistent
