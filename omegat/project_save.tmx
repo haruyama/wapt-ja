@@ -94,6 +94,14 @@ http://www.example.com/Appx.jsp?a=1&amp;b=1
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>==Business Limits and Restrictions==</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T083320Z" creationid="haruyama" creationdate="20140226T083320Z">
+        <seg>== ビジネスの制限と規制 ==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Web Application Penetration Test focuses only on evaluating the security of a web application.&lt;br&gt;
 The process involves an active analysis of the application for any weaknesses, technical flaws, or vulnerabilities.</seg>
       </tuv>
@@ -161,6 +169,14 @@ The process involves an active analysis of the application for any weaknesses, t
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are there any limits or restrictions on people's behavior?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T083448Z" creationid="haruyama" creationdate="20140226T083448Z">
+        <seg>人々の振舞いにはなにか制限や規制があるでしょうか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of this phase, the tester should understand all the access points (''gates'') of the application (e.g., HTTP headers, parameters, and cookies).</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140126T100708Z" creationid="haruyama" creationdate="20140126T100708Z">
@@ -171,8 +187,8 @@ The process involves an active analysis of the application for any weaknesses, t
       <tuv lang="EN-US">
         <seg>Automation of business logic abuse cases is not possible and remains a manual art relying on the skills of the tester and their knowledge of the complete business process and its rules.</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140226T082327Z" creationid="haruyama" creationdate="20140226T082327Z">
-        <seg>ビジネスロジックの悪用ケースを自動化するのは不可能で, テスターのスキルと完全なビジネスプロセスとそのルールの知識に依存するマニュアルの芸術として残っている.</seg>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T083404Z" creationid="haruyama" creationdate="20140226T082327Z">
+        <seg>ビジネスロジックの悪用ケースを自動化するのは不可能で, テスターのスキルと完全なビジネスプロセスとそのルールの知識に依存するマニュアルの芸術として残っています.</seg>
       </tuv>
     </tu>
     <tu>
@@ -189,6 +205,14 @@ The process involves an active analysis of the application for any weaknesses, t
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140208T094801Z" creationid="haruyama" creationdate="20140208T094801Z">
         <seg>明らかに, Webアプリケーションにのみ集中するのは網羅的なテストではありません.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Consider the rules for the business function being provided by the application.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T083434Z" creationid="haruyama" creationdate="20140226T083434Z">
+        <seg>アプリケーションによって提供されるビジネスの機能のための規則を考慮しましょう.</seg>
       </tuv>
     </tu>
     <tu>
@@ -251,8 +275,8 @@ https://www.example.com/login/Authentic_Form.html
       <tuv lang="EN-US">
         <seg>In addition, this type of vulnerability is usually one of the hardest to detect, and usually application specific but, at the same time, usually one of the most detrimental to the application, if exploited.</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140226T080801Z" creationid="haruyama" creationdate="20140226T080801Z">
-        <seg>加えて, このタイプの脆弱性は通常検出するのがもっとも難しいものの1つでかつ通常アプリケーションに固有で, それと同時に通常もし悪用されるとアプリケーションのとって最も有害なものの1つとなる.</seg>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T083331Z" creationid="haruyama" creationdate="20140226T080801Z">
+        <seg>加えて, このタイプの脆弱性は通常検出するのがもっとも難しいものの1つでかつ通常アプリケーションに固有で, それと同時に通常もし悪用されるとアプリケーションのとって最も有害なものの1つとなります.</seg>
       </tuv>
     </tu>
     <tu>
@@ -365,8 +389,8 @@ In many cases, error codes can be easily invoked without the need for specialist
       <tuv lang="EN-US">
         <seg>Testing of business logic flaws is similar to the test types used by functional testers that focus on logical or finite state testing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140226T081825Z" creationid="haruyama" creationdate="20140226T081825Z">
-        <seg>ビジネスロジックの欠陥のテストは, 論理ないし有限状態のテストに焦点を当てる機能テスターが用いるテストの種類に似ている.</seg>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T083354Z" creationid="haruyama" creationdate="20140226T081825Z">
+        <seg>ビジネスロジックの欠陥のテストは, 論理ないし有限状態のテストに焦点を当てる機能テスターが用いるテストの種類に似ています.</seg>
       </tuv>
     </tu>
     <tu>
@@ -423,8 +447,8 @@ We think it is important to use a method to test all known vulnerabilities and d
       <tuv lang="EN-US">
         <seg>The classification of business logic flaws has been under-studied; although exploitation of business flaws frequently happens in real-world systems, and many applied vulnerability researchers investigate them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140226T081429Z" creationid="haruyama" creationdate="20140226T081429Z">
-        <seg>現実のシステムでビジネスの欠陥の悪用が頻繁に起こっていて多くの応用脆弱性研究者がそれらを調査しているにも関わらず, ビジネスロジックの欠陥の分類は研究中だ.</seg>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T083338Z" creationid="haruyama" creationdate="20140226T081429Z">
+        <seg>現実のシステムでビジネスの欠陥の悪用が頻繁に起こっていて多くの応用脆弱性研究者がそれらを調査しているにも関わらず, ビジネスロジックの欠陥の分類は研究中です.</seg>
       </tuv>
     </tu>
     <tu>
@@ -441,8 +465,8 @@ OWASP ウェブアプリケーションペネトレーションテスト法は, 
       <tuv lang="EN-US">
         <seg>The greatest focus is in web applications.</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140226T081458Z" creationid="haruyama" creationdate="20140226T081458Z">
-        <seg>最大の焦点は web アプリケーションの中にある.</seg>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T083343Z" creationid="haruyama" creationdate="20140226T081458Z">
+        <seg>最大の焦点は web アプリケーションの中にあります.</seg>
       </tuv>
     </tu>
     <tu>
@@ -489,6 +513,14 @@ The test is divided into 2 phases:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, consider whether the application enforces those rules.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T083530Z" creationid="haruyama" creationdate="20140226T083530Z">
+        <seg>そして, アプリケーションがそれらの規則を執行しているか考慮しましょう.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are many examples that can be made, but the one constant lesson is "think outside of conventional wisdom".</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140226T080349Z" creationid="haruyama" creationdate="20140226T080349Z">
@@ -499,16 +531,16 @@ The test is divided into 2 phases:
       <tuv lang="EN-US">
         <seg>There is debate within the community about whether these problems represent particularly new concepts, or if they are variations of well-known principles.</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140226T081627Z" creationid="haruyama" creationdate="20140226T081627Z">
-        <seg>これらの問題は新しい概念を提示するか よく知られた原則のバリエーションなのかについてはコミュニティ内で議論がある.</seg>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T083350Z" creationid="haruyama" creationdate="20140226T081627Z">
+        <seg>これらの問題は新しい概念を提示するか よく知られた原則のバリエーションなのかについてはコミュニティ内で議論があります.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>These types of tests require that security professionals think a bit differently, develop abused and misuse cases and use many of the testing techniques embraced by functional testers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140226T082215Z" creationid="haruyama" creationdate="20140226T082215Z">
-        <seg>これらの種類のテストは, セキュリティのプロにちょっと違った考えをしたり, 悪用法を開発したり, 状況を悪用したり, 機能テスターによって採用されたテスト技術の多くを用いることを要求する.</seg>
+      <tuv lang="JA" changeid="haruyama" changedate="20140226T083359Z" creationid="haruyama" creationdate="20140226T082215Z">
+        <seg>これらの種類のテストは, セキュリティのプロにちょっと違った考えをしたり, 悪用法を開発したり, 状況を悪用したり, 機能テスターによって採用されたテスト技術の多くを用いることを要求します.</seg>
       </tuv>
     </tu>
     <tu>
