@@ -155,8 +155,8 @@ The process involves an active analysis of the application for any weaknesses, t
       <tuv lang="EN-US">
         <seg>Additionally, having a direct line to the developers (if possible) during testing will help out greatly, if any questions arise regarding the application's functionality.</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140226T084145Z" creationid="haruyama" creationdate="20140226T084145Z">
-        <seg>加えて, アプリケーションの機能について疑問が生じたなら, (可能なら)テスト中開発者と直接やりとりできると助かります.</seg>
+      <tuv lang="JA" changeid="haruyama" changedate="20140227T132105Z" creationid="haruyama" creationdate="20140226T084145Z">
+        <seg>加えて, アプリケーションの機能について疑問が生じたなら, (可能なら)テスト中に開発者と直接やりとりできると助かります.</seg>
       </tuv>
     </tu>
     <tu>
