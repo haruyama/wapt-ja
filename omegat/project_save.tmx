@@ -754,6 +754,14 @@ The test is divided into 2 phases:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What if a user was able to start a transaction linked to their club/loyalty account and then after points have been added to their account cancel out of the transaction?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140228T095918Z" creationid="haruyama" creationdate="20140228T095918Z">
+        <seg>ユーザがサイトのアカウントにリンクした取引を始めて, アカウントにポイントが追加されたあとで取引キャンセルしたらどうなるでしょうか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What if an attacker was able to go back to the summary page, maintaining their same valid session and inject a lower cost for an item and complete the transaction, and then check out?</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140228T095241Z" creationid="haruyama" creationdate="20140228T095241Z">
