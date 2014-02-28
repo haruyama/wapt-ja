@@ -770,6 +770,14 @@ The test is divided into 2 phases:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Will the points/credits still be applied to their account?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140228T100013Z" creationid="haruyama" creationdate="20140228T100013Z">
+        <seg>ポイント/クレジットはまだアカントに適用されるでしょうか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[[Testing for Application Discovery (OWASP-IG-005)|4.2.5 Application Discovery  (OWASP-IG-005)]] [rename to "Enumerate applications on webserver"]&lt;br&gt;
 Application discovery is an activity oriented to the identification of the web applications hosted on a web server/application server.&lt;br&gt;
 This analysis is important because often there is not a direct link connecting the main application backend.</seg>
