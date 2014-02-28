@@ -42,6 +42,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>'''Example 3''':</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140228T095715Z" creationid="haruyama" creationdate="20140228T095715Z">
+        <seg>'''例 3''':</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>'''Our approach in writing this guide'''</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140126T092739Z" creationid="haruyama" creationdate="20140126T092739Z">
@@ -297,6 +305,14 @@ https://www.example.com/login/Authentic_Form.html
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Holding/locking resources and keeping others from purchases these items online may result in attackers purchasing items at a lower price.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140228T095537Z" creationid="haruyama" creationdate="20140228T095537Z">
+        <seg>リソースを保持/ロックしアイテムのオンラインでの購入に他者が関与しないようにすると, 攻撃者がより低い価格でアイテムを購入する可能性があります.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If an application's authentication mechanism is developed with the intention of performing steps 1, 2, 3 in that specific order to authenticate a user.</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140226T075740Z" creationid="haruyama" creationdate="20140226T075710Z">
@@ -529,6 +545,14 @@ We think it is important to use a method to test all known vulnerabilities and d
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140226T083338Z" creationid="haruyama" creationdate="20140226T081429Z">
         <seg>現実のシステムでビジネスの欠陥の悪用が頻繁に起こっていて多くの応用脆弱性研究者がそれらを調査しているにも関わらず, ビジネスロジックの欠陥の分類は研究中です.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The countermeasure to this problem is to implement timeouts and mechanisms to ensure that only the correct price can be charged.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140228T095707Z" creationid="haruyama" creationdate="20140228T095707Z">
+        <seg>この問題への対策は, 正しい価格のみが請求されることを保証するタイムアウトとメカニズムを実装することです.</seg>
       </tuv>
     </tu>
     <tu>
