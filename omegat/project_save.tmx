@@ -34,6 +34,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>'''Example 2''':</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140228T095315Z" creationid="haruyama" creationdate="20140228T095315Z">
+        <seg>'''例 2''':</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>'''Our approach in writing this guide'''</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140126T092739Z" creationid="haruyama" creationdate="20140126T092739Z">
@@ -445,8 +453,8 @@ In many cases, error codes can be easily invoked without the need for specialist
       <tuv lang="EN-US">
         <seg>Suppose an e-commerce site allows users to select items to purchase, view a summary page and then tender the sale.</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140228T095103Z" creationid="haruyama" creationdate="20140228T094600Z">
-        <seg>eコマースのサイトで, ユーザが購入するアイテムを選んだりまとめページを見て販売を扱えるとします.</seg>
+      <tuv lang="JA" changeid="haruyama" changedate="20140228T095306Z" creationid="haruyama" creationdate="20140228T094600Z">
+        <seg>eコマースのサイトで, ユーザが購入するアイテムを選んだりまとめページを見て取引を扱えるとします.</seg>
       </tuv>
     </tu>
     <tu>
@@ -718,6 +726,14 @@ The test is divided into 2 phases:
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140226T080041Z" creationid="haruyama" creationdate="20140226T075809Z">
         <seg>ステップ 1 から直接ステップ 3 へ移動したらどうなるでしょうか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What if an attacker was able to go back to the summary page, maintaining their same valid session and inject a lower cost for an item and complete the transaction, and then check out?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140228T095241Z" creationid="haruyama" creationdate="20140228T095241Z">
+        <seg>攻撃者は, 同じ有効なセッションを維持したまままとめページに戻ってアイテムに対しより低い価格を注入し取引を完了して, 清算することができるでしょうか?</seg>
       </tuv>
     </tu>
     <tu>
