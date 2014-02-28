@@ -102,6 +102,14 @@ http://www.example.com/Appx.jsp?a=1&amp;b=1
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>==Description of the Issue==</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140228T094010Z" creationid="haruyama" creationdate="20140228T094010Z">
+        <seg>==この問題の説明==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Web Application Penetration Test focuses only on evaluating the security of a web application.&lt;br&gt;
 The process involves an active analysis of the application for any weaknesses, technical flaws, or vulnerabilities.</seg>
       </tuv>
@@ -189,6 +197,14 @@ The process involves an active analysis of the application for any weaknesses, t
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140126T100708Z" creationid="haruyama" creationdate="20140126T100708Z">
         <seg>この段階の最後には, テスターはアプリケーションのアクセスポイント("ゲート")(例えば, HTTPのヘッダ, パラメータ, クッキー)のすべてを理解する必要があります.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automated tools find it hard to understand context, hence it's up to a person to perform these kinds of tests.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140228T094103Z" creationid="haruyama" creationdate="20140228T094103Z">
+        <seg>自動化ツールでは文脈を理解するのが困難です. それゆえ, この種類のテストの実行は人間に依存しています.</seg>
       </tuv>
     </tu>
     <tu>
