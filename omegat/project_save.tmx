@@ -443,6 +443,14 @@ In many cases, error codes can be easily invoked without the need for specialist
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Suppose an e-commerce site allows users to select items to purchase, view a summary page and then tender the sale.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140228T094600Z" creationid="haruyama" creationdate="20140228T094600Z">
+        <seg>eコマースのサイトで, ユーザが購入するアイテムを選んだりまとめページを見たり, Suppose an e-commerce site allows users to select items to purchase, view a summary page and then tender the sale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Testing for business logic flaws in a multi-functional dynamic web application requires thinking in unconventional methods.</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140226T075613Z" creationid="haruyama" creationdate="20140226T075536Z">
