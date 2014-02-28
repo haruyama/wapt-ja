@@ -509,6 +509,14 @@ We think it is important to use a method to test all known vulnerabilities and d
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following two examples will illustrate how understanding the functionality of the application, the developer's intentions, and some creative "out-of-the-box" thinking can break the application's logic.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140228T094227Z" creationid="haruyama" creationdate="20140228T094227Z">
+        <seg>以下の2つの例で, アプリケーションの機能や開発者の意図をどのように理解するかとアプリケーションのロジックを破る創造的な「規格外」の考え方のいくつかを示します.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The goal is to collect all the possible testing techniques, explain them, and keep the guide updated.&lt;br&gt;
 The OWASP Web Application Penetration Testing method is based on the black box approach.</seg>
       </tuv>
