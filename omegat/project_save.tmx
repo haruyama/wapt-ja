@@ -721,6 +721,14 @@ The test is divided into 2 phases:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is important because without this safeguard attackers may be able to “fool/trick” the application into letting them into sections of thwe application of system that they should not be allowed in at that particular time, thus circumventing the applications business logic workflow.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140303T090510Z" creationid="haruyama" creationdate="20140303T090510Z">
+        <seg>この予防手段がないとアプリケーションを攻撃者が「騙したりたぶらかしたり」して特定の時にアクセスを許可されていないシスムムのアプリケーションの部分を攻撃しそしてアプリケーションのビジネスロジックワークフローを回避する可能性があるので, これは重要です.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This section provides some common examples of business logic issues but in no way a complete list of all issues.</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140303T084423Z" creationid="haruyama" creationdate="20140303T084423Z">
