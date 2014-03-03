@@ -707,8 +707,8 @@ The test is divided into 2 phases:
       <tuv lang="EN-US">
         <seg>This is important because without this safeguard attackers may be able to insert “unvalidated” data/information into the application/system at “handoff points” where the application/system believes that the data/information is “good” and has been valid since the “entry points” performed data validation as part of the business logic workflow.</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140303T085015Z" creationid="haruyama" creationdate="20140303T084641Z">
-        <seg>この予防手段なしで「未検証の」データ/情報をアプリケーション/システムに「引き継ぎの地点」で攻撃者が挿入できると, 「入口地点」でビジネスロジックワークフローの一部としてデータ検証をアプリケーション/システムはそのデータ/情報を「良いもの」とし有効にしてしまう. This is important because without this safeguard attackers may be able to insert “unvalidated” data/information into the application/system at “handoff points” where the application/system believes that the data/information is “good” and has been valid since the “entry points” performed data validation as part of the business logic workflow.</seg>
+      <tuv lang="JA" changeid="haruyama" changedate="20140303T085304Z" creationid="haruyama" creationdate="20140303T084641Z">
+        <seg>「入口地点」でビジネスロジックワークフローの一部としてデータ検証を行なって以降アプリケーション/システムはデータ/情報を「良いもの」とし有効にした場合に, この予防手段がないと「引き継ぎ地点」でアプリケーション/システムへ「未検証の」データ/情報を挿入できる場合があるので, これは重要です.</seg>
       </tuv>
     </tu>
     <tu>
@@ -822,6 +822,14 @@ The test is divided into 2 phases:
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140228T100013Z" creationid="haruyama" creationdate="20140228T100013Z">
         <seg>ポイント/クレジットはまだアカントに適用されるでしょうか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[[Test Ability to forge requests (OTG-BUSLOGIC-002)|4.12.2 Test Ability to forge requests (OTG-BUSLOGIC-002)]]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140303T085343Z" creationid="haruyama" creationdate="20140303T085343Z">
+        <seg>[[Test Ability to forge requests (OTG-BUSLOGIC-002)|4.12.2 リクエスト偽造するテスト能力 (OTG-BUSLOGIC-002)]]</seg>
       </tuv>
     </tu>
     <tu>
