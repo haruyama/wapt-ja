@@ -26,6 +26,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>'''Business Logic exploits can be broken into the following categories''':</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140303T084442Z" creationid="haruyama" creationdate="20140303T084442Z">
+        <seg>'''ビジネスロジックの悪用は次のカテゴリに分解できます.''':</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>'''Example 1''':</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140228T094510Z" creationid="haruyama" creationdate="20140228T094510Z">
@@ -361,6 +369,14 @@ https://www.example.com/login/Authentic_Form.html
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In business logic data validation testing, we verify that the application does not allow users to insert “unvalidated” data into the system/application.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140303T084658Z" creationid="haruyama" creationdate="20140303T084601Z">
+        <seg>ビジネスロジックのデータバリデーションのテストでは, アプリケーションが「未検証な」データをシステム/アプリケーションへユーザが挿入できないかを検証します.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In fact it takes only a single vulnerability to undermine the security of the entire infrastructure, and even small and (almost) unimportant problems may evolve into severe risks for another application on the same server.</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140209T052349Z" creationid="haruyama" creationdate="20140209T052349Z">
@@ -689,6 +705,14 @@ The test is divided into 2 phases:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is important because without this safeguard attackers may be able to insert “unvalidated” data/information into the application/system at “handoff points” where the application/system believes that the data/information is “good” and has been valid since the “entry points” performed data validation as part of the business logic workflow.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140303T084641Z" creationid="haruyama" creationdate="20140303T084641Z">
+        <seg>この安全装置なしで攻撃者が「検証This is important because without this safeguard attackers may be able to insert “unvalidated” data/information into the application/system at “handoff points” where the application/system believes that the data/information is “good” and has been valid since the “entry points” performed data validation as part of the business logic workflow.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This section provides some common examples of business logic issues but in no way a complete list of all issues.</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140303T084423Z" creationid="haruyama" creationdate="20140303T084423Z">
@@ -798,6 +822,14 @@ The test is divided into 2 phases:
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140228T100013Z" creationid="haruyama" creationdate="20140228T100013Z">
         <seg>ポイント/クレジットはまだアカントに適用されるでしょうか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[[Test business logic data validation (OTG-BUSLOGIC-001)|4.12.1 Test business logic data validation (OTG-BUSLOGIC-001)]]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140303T084510Z" creationid="haruyama" creationdate="20140303T084510Z">
+        <seg>[[Test business logic data validation (OTG-BUSLOGIC-001)|4.12.1 ビジネスロジックのデータバリデーションのテスト (OTG-BUSLOGIC-001)]]</seg>
       </tuv>
     </tu>
     <tu>
