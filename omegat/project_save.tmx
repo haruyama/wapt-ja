@@ -126,6 +126,14 @@ http://www.example.com/Appx.jsp?a=1&amp;b=1
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>==Business Logic Test Cases==</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140303T084247Z" creationid="haruyama" creationdate="20140303T084247Z">
+        <seg>==ビジネスロジックのテストケース==</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>==Description of the Issue==</seg>
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140228T094010Z" creationid="haruyama" creationdate="20140228T094010Z">
@@ -269,6 +277,14 @@ The process involves an active analysis of the application for any weaknesses, t
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140127T091923Z" creationid="haruyama" creationdate="20140127T091923Z">
         <seg>検出解析は, 管理目的で利用されるウェブアプリケーションのような細部を暴露するのにも有用となります.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every application has a different business process, application specific logic and can be manipulated in an infinite number of combinations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140303T084322Z" creationid="haruyama" creationdate="20140303T084322Z">
+        <seg>すべてのアプリケーションは異なるビジネスプロセスやアプリケーション固有のロジックを持ち, 無限のコンビネーションで操作できます.</seg>
       </tuv>
     </tu>
     <tu>
@@ -669,6 +685,14 @@ The test is divided into 2 phases:
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140126T100140Z" creationid="haruyama" creationdate="20140126T073904Z">
         <seg>この章では、OWASPのWebアプリケーションペネトレーションテストの方法とそれぞれの脆弱性をテストする方法について説明します.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This section provides some common examples of business logic issues but in no way a complete list of all issues.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140303T084423Z" creationid="haruyama" creationdate="20140303T084423Z">
+        <seg>この節では, ビジネスロジックの問題のいくつかの共通の例を提供します. ただし, すべての問題の完全なリストは提供しません.</seg>
       </tuv>
     </tu>
     <tu>
