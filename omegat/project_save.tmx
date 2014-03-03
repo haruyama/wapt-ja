@@ -371,8 +371,8 @@ https://www.example.com/login/Authentic_Form.html
       <tuv lang="EN-US">
         <seg>In business logic data validation testing, we verify that the application does not allow users to insert “unvalidated” data into the system/application.</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140303T085019Z" creationid="haruyama" creationdate="20140303T084601Z">
-        <seg>ビジネスロジックのデータ検証のテストでは, アプリケーションが「未検証な」データをシステム/アプリケーションへユーザが挿入できないかを検証します.</seg>
+      <tuv lang="JA" changeid="haruyama" changedate="20140303T085501Z" creationid="haruyama" creationdate="20140303T084601Z">
+        <seg>ビジネスロジックのデータ検証のテストでは, アプリケーションが「未検証な」データをシステム/アプリケーションへユーザが挿入できないかを確認します.</seg>
       </tuv>
     </tu>
     <tu>
@@ -381,6 +381,14 @@ https://www.example.com/login/Authentic_Form.html
       </tuv>
       <tuv lang="JA" changeid="haruyama" changedate="20140209T052349Z" creationid="haruyama" creationdate="20140209T052349Z">
         <seg>実際, たった1つの脆弱性が全体のインフラのセキュリティを台無しにすることもありますし, 小さく(ほとんど)重要でない問題が同じサーバの別のアプリケーションの深刻なリクスに反転することさえあります.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In forged and predictive parameter request testing, we verify that the application does not allow users to submit or alter data to any component of the system that they should not have access to, are accessing at that particular time or in that particular manner.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="haruyama" changedate="20140303T085456Z" creationid="haruyama" creationdate="20140303T085416Z">
+        <seg>リクエストパラメータの偽造や予測のテストで, In forged and predictive parameter request testing, we verify that the application does not allow users to submit or alter data to any component of the system that they should not have access to, are accessing at that particular time or in that particular manner.</seg>
       </tuv>
     </tu>
     <tu>
@@ -828,8 +836,8 @@ The test is divided into 2 phases:
       <tuv lang="EN-US">
         <seg>[[Test Ability to forge requests (OTG-BUSLOGIC-002)|4.12.2 Test Ability to forge requests (OTG-BUSLOGIC-002)]]</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140303T085343Z" creationid="haruyama" creationdate="20140303T085343Z">
-        <seg>[[Test Ability to forge requests (OTG-BUSLOGIC-002)|4.12.2 リクエスト偽造するテスト能力 (OTG-BUSLOGIC-002)]]</seg>
+      <tuv lang="JA" changeid="haruyama" changedate="20140303T085418Z" creationid="haruyama" creationdate="20140303T085343Z">
+        <seg>[[Test Ability to forge requests (OTG-BUSLOGIC-002)|4.12.2 リクエストを偽造するテスト能力 (OTG-BUSLOGIC-002)]]</seg>
       </tuv>
     </tu>
     <tu>
