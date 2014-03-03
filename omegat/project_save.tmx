@@ -387,8 +387,8 @@ https://www.example.com/login/Authentic_Form.html
       <tuv lang="EN-US">
         <seg>In forged and predictive parameter request testing, we verify that the application does not allow users to submit or alter data to any component of the system that they should not have access to, are accessing at that particular time or in that particular manner.</seg>
       </tuv>
-      <tuv lang="JA" changeid="haruyama" changedate="20140303T085456Z" creationid="haruyama" creationdate="20140303T085416Z">
-        <seg>リクエストパラメータの偽造や予測のテストで, In forged and predictive parameter request testing, we verify that the application does not allow users to submit or alter data to any component of the system that they should not have access to, are accessing at that particular time or in that particular manner.</seg>
+      <tuv lang="JA" changeid="haruyama" changedate="20140303T085743Z" creationid="haruyama" creationdate="20140303T085416Z">
+        <seg>リクエストパラメータの偽造や予測のテストで, ユーザがアクセスできるべきではないシステムのどの部分に対し特定の時や特定の方法でアクセスしてもユーザがデータを挿入したり変更できないことを確認します.</seg>
       </tuv>
     </tu>
     <tu>
